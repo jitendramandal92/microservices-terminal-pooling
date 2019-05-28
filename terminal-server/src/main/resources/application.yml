@@ -1,0 +1,11 @@
+server:
+  port: 8989
+
+spring:
+  application:
+    name: terminal-server
+
+
+h2:
+  console:
+    enabled: true
